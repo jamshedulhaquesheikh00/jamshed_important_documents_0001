@@ -1,0 +1,32 @@
+
+
+🎉 Day 3 Accomplished: API Integration and Data Migration
+
+Today marks another milestone in my e-commerce marketplace project, where I successfully integrated APIs and migrated data into Sanity CMS. By enabling seamless API integration, I fetched and displayed product and category data dynamically in Next.js, ensuring real-time updates for a smooth user experience.
+
+🔍 Key Achievements:
+
+API Integration: Fetched and displayed product and category data dynamically.
+Data Migration: Aligned schemas and validated fields in Sanity CMS for a scalable backend system.
+Error Handling: Implemented techniques to manage API failures and maintain a seamless experience.
+Followed modular coding principles and clean schema validation best practices, gaining insights into precise data handling and scalability.
+Reflecting on today’s progress, I’m excited to tackle upcoming challenges and continue building towards a fully functional marketplace.
+
+🔖 Special Thanks to GIAIC and mentors for their support. Let’s innovate together!
+
+📧 Contact Emails: jamshedulhaquesheikh86@gmail.com / jamshedulhaquesheikh94@gmail.com
+📞 Contact Numbers: +92 335 9033554 / +92 334 3046525 / +92 319 3486525
+Roll Number: 00495008
+
+LinkedIn Tags:
+#HamzaAhmed | #AliAftabSheikh | #JawaidAli | #AsharibAli | #AmeenAlam | #NaeemHussain | #ZiaKhan | #DaniyalNagori | #HamzahSyed | #MuhammadQasim | #MuhammadAhsaan | #AbbasiSakeenaMajeed | #MuhammadMubashirSaeedi | #MuhammadAnasSeth | #UbaidUrRehman | #HamzaA | #AhmerArman | #NidaRizwan | #SumayyaFazalHussain | #Subhankaladi | #AlizahFatima | #MuhammadBilalAli | #AftabSheikh
+
+#APIIntegration #DataMigration #Hackathon2025 #ECommerceInnovation
+
+
+
+
+
+
+
+

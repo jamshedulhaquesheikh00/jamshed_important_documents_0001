@@ -1,0 +1,64 @@
+
+
+🌟 Day 1 of the Hackathon: Complete! 🚀 🌟
+
+Roll Number : 00495008
+
+Done....!
+
+Hackathon 3, Laying the foundation for your marketplace journey- Day 1.
+
+MarketPlace_Builder_Hackathon 
+Day 01 Task
+
+
+✅ E-Commerce_Marketplace
+✅E-Commerce_Business_Goals
+✅Marketplace_Data_Schema 
+✅Marketplace_Entities 
+
+
+Here is the blueprint of the General E-commerce website.
+
+I’m thrilled to share the progress I’ve made on Day 1 of the Hackathon, where I’m building an E-Commerce Marketplace for Shirts! 👕
+Here’s how I’ve laid the foundation for my project:
+
+Step 1: Choosing the Marketplace Type
+After evaluating several options, I decided to focus on a General E-Commerce Marketplace dedicated to shirts. The goal is to create a platform where customers can easily find high-quality, stylish shirts across various categories like Casual, Formal, and Partywear.
+
+Step 2: Defining Business Goals
+✔ Problem Solved: Many shoppers struggle to find affordable, trendy shirts in one place. My marketplace will bridge this gap by offering a curated selection with customization options.
+✔ Target Audience:
+Young professionals looking for polished, formal shirts.
+Style enthusiasts seeking fashionable casual wear.
+Budget-conscious customers valuing affordability and quality.
+✔ What Sets It Apart:
+Customization: Customers can personalize their shirts (e.g., size, color, style).
+Affordability: Competitive pricing to suit everyone.
+Fast Delivery: 2-day delivery for urban areas.
+
+Step 3: Designing the Data Schema
+I’ve outlined the core structure of my marketplace by identifying key entities and their relationships:
+Products (ID, Name, Price, Stock, Category, Tags)
+Orders (Order ID, Customer Info, Product Details, Status, Timestamp)
+Customers (Customer ID, Name, Contact Info, Address, Order History)
+Delivery Zones (Zone Name, Coverage Area, Assigned Drivers)
+Shipment (Shipment ID, Order ID, Status, Delivery Date)
+
+🔖 Special Thanks:
+I would like to express my gratitude to GIAIC for providing the platform and opportunity to push my creative and technical boundaries during this hackathon. A big thank you to Sir Aneeq Khatri and Sir Bilal Muhammad Khan for their mentorship and guidance throughout the process.
+
+📚 Additional Resources:
+► All materials for GIAIC Quiz exams: https://lnkd.in/d5kDkp6E
+► YouTube Channel: https://lnkd.in/dDbCTNMk
+📧  For queries: jamshedulhaquesheikh6@gmail.com/jamshedulhaquesheikh94gmail.com
+
+Platform: Governor Sindh Initiative for GenAI, Web3, and Metaverse
+
+
+Hamza Ahmed | Ali Aftab Sheikh | Jawaid Ali | Asharib Ali | Ameen Alam | Naeem Hussain | Zia Khan | Daniyal Nagori | Hamzah Syed| Muhammad Qasim | Muhammad Ahsaan| Abbasi Sakeena Majeed | Muhammad Mubashir Saeedi | Muhammad Anas Seth | Ubaid Ur Rehman | Hamza A | Ahmer Arman | Nida Rizwan | Sumayya Fazal Hussain | Subhan kaladi | Alizah Fatima | Muhammad Bilal Ali  | Aftab Sheikh
+
+
+ 
+hashtag#Hackathon2025 hashtag#ECommerceInnovation hashtag#SustainabilityMeetsTech
+Your documents

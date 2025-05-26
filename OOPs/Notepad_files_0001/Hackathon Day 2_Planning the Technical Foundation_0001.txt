@@ -1,0 +1,39 @@
+🎉 Hackathon Day 2: Planning the Technical Foundation! 🚀
+Roll Number: 00495008
+
+I'm thrilled to share my progress from Day 2 of the Marketplace Builder Hackathon 2025! Today focused on structuring a strong technical foundation for my Food Website project. 🥗🍕🍔
+
+🔍 Highlights of the Day:
+⿡ Technical Planning:
+
+Organized project tasks based on Hackathon Guidelines.
+Set goals: Categorize recipes (Breakfast, Lunch, Dinner, Snacks), provide nutritional details, and design interactive forms for personalized meal plans.
+⿢ Documentation:
+
+Created essential repository files to streamline development.
+💡 This journey is boosting my technical problem-solving while teaching valuable development practices.
+✨ Inspired to keep building something impactful!
+
+📂 My Progress:
+Check my repository: GitHub Link
+
+🔖 Special Thanks to GIAIC, Sir Aneeq Khatri, and Sir Bilal Muhammad Khan for guidance!
+
+📚 Resources:
+
+Quiz Materials
+YouTube Channel
+📧 Contact Emails: jamshedulhaquesheikh86@gmail.com / jamshedulhaquesheikh94@gmail.com
+📞 Contact Numbers: +92 335 9033554 / +92 334 3046525 / +92 319 3486525
+
+LinkedIn Tags:
+#HamzaAhmed | #AliAftabSheikh | #JawaidAli | #AsharibAli | #AmeenAlam | #NaeemHussain | #ZiaKhan | #DaniyalNagori | #HamzahSyed | #MuhammadQasim | #MuhammadAhsaan | #AbbasiSakeenaMajeed | #MuhammadMubashirSaeedi | #MuhammadAnasSeth | #UbaidUrRehman | #HamzaA | #AhmerArman | #NidaRizwan | #SumayyaFazalHussain | #Subhankaladi | #AlizahFatima | #MuhammadBilalAli | #AftabSheikh
+
+#HackathonJourney #FoodWebsite #WebDevelopment #NextJS #LearningInPublic #CodingChallenges
+
+
+
+
+
+
+
